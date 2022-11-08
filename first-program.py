@@ -1,5 +1,6 @@
-a=15
-b=16
+
+a=35
+b=36
 
 sum=a+b
 print ("Sum of two numbers=", sum)
